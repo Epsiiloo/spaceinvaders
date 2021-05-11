@@ -1,4 +1,4 @@
-    package fr.unilim.iut.spaceinvaders;
+   package fr.unilim.iut.spaceinvaders;
 
 import fr.unilim.iut.spaceinvaders.utils.HorsEspaceJeuException;
 
@@ -16,20 +16,6 @@ public class SpaceInvaders {
 		   this.hauteur = hauteur;
 	   }
 	    
-	    
-	    
-	    
-		public void positionnerUnNouveauVaisseau(int x, int y) {
-			
-			if (  !estDansEspaceJeu(x, y) )
-				throw new HorsEspaceJeuException("La position du vaisseau est en dehors de l'espace jeu");
-		
-			vaisseau = new Vaisseau(x, y); 
-
-		}
-
-
-
 
 		private boolean estDansEspaceJeu(int x, int y) {
 			return ((x >= 0) && (x < longueur)) && ((y >= 0) && (y < hauteur));
@@ -80,6 +66,27 @@ public class SpaceInvaders {
 
 		private boolean aUnVaisseau() {
 			return vaisseau!=null;
+		}
+		
+		
+		public void deplacerVaisseauVersLaDroite() {
+			if (vaisseau.abscisseLaPlusADroite() < (longueur - 1))
+				vaisseau.seDeplacerVersLaDroite();
+		}
+	   	
+	   	public void deplacerVaisseauVersLaGauche() {
+	        if (vaisseau.abscisseLaPlusAGauche()> (0)) vaisseau.seDeplacerVersLaGauche();
+		}
+
+
+
+
+		public void positionnerUnNouveauVaisseau(int longueur, int hauteur, int x, int y) {
+			if (!estDansEspaceJeu(x, y))
+				throw new HorsEspaceJeuException("La position du vaisseau est en dehors de l'espace jeu");
+
+			vaisseau = new Vaisseau(longueur, hauteur);
+			vaisseau.positionner(x, y);
 		}
 	    
 
