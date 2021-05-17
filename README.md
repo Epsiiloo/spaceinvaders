@@ -64,12 +64,12 @@ Aucune
 
 ### Diagramme de classes 
 
-![Diagrammes de classes de la semaine 1](images/Diagramme_Semaine1)
+![Diagrammes de classes de la semaine 1](images/Diagramme_Semaine1.png)
 
 ### Nuage de mots du projet spaceinvaders (séance n°1)  
 (généré à l’aide de Source Code Word Cloud Generator avec la liste JavaBlacklist.txt fournie en annexe)
  
-![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine1)
+![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine1.png)
 
 
 ### Difficultés rencontrées 
