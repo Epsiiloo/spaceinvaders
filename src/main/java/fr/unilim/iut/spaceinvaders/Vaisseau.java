@@ -23,7 +23,15 @@ package fr.unilim.iut.spaceinvaders;
 		}
 
 		private boolean estOrdonneeCouverte(int y) {
-			return (this.y-this.hauteur+1<=y) && (y<=this.y);
+			return (ordonneeLaPlusBasse()<=y) && (y<=ordonneLaPlusHaute());
+		}
+
+		private int ordonneLaPlusHaute() {
+			return this.y;
+		}
+
+		private int ordonneeLaPlusBasse() {
+			return this.y-this.hauteur+1;
 		}
 
 		private boolean estAbscisseCouverte(int x) {
