@@ -1,9 +1,5 @@
 # Space Invaders 
 
-*Si vous le souhaitez, vous pouvez introduire le projet space Invaders en quelques mots*
-
-*Si vous le souhaitez, vous pouvez faire un petit sommaire pour atteindre plus facilement une semaine donnée.*  
-*Il est à noter que le le glossaire devra être compléter au fil des séances* 
 - [Semaine n°4 : du 24 au 28 mai](#semaine4)  
 - [Semaine n°3 : du 17 au 21 mai](#semaine3)  
 - [Semaine n°2 : du 10 au 15 mai](#semaine2)  
