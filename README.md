@@ -15,6 +15,10 @@
 - Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
 Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
 
+### Diagramme de classes 
+
+![Diagrammes de classes de la semaine 4](images/Diagramme_Semaine4.png)
+
 
 -------------
 
