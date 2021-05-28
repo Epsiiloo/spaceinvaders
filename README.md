@@ -8,7 +8,19 @@
 - [Semaine n°1 : du 10 au 15 avril](#semaine1)  
 - [Glossaire](#glossaire)
 
-## Semaine n°2 : du 17 au 21 avril <a id="semaine2"></a>
+## Semaine n°3 : du 24 au 28 mai <a id="semaine2"></a>
+
+### Sprints et fonctionnalités réalisées 
+
+#### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
+
+- Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
+Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
+
+
+-------------
+
+## Semaine n°2 : du 17 au 21 mai <a id="semaine2"></a>
 
 ### Sprints et fonctionnalités réalisées 
 
@@ -29,7 +41,7 @@ Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 
 -------------
 
-## Semaine n°1 : du 10 au 15 avril <a id="semaine1"></a>
+## Semaine n°1 : du 10 au 15 mai <a id="semaine1"></a>
 
 
 ### Sprints et fonctionnalités réalisées 
