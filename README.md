@@ -41,7 +41,7 @@ Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 
 ### Diagramme de classes 
 
-![Diagrammes de classes de la semaine 3](images/Diagramme_Semaine3.PNG)
+![Diagrammes de classes de la semaine 3](images/Diagramme_Semaine2.png)
 
 
 -------------
