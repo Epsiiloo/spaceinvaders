@@ -19,6 +19,12 @@ Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
 
 ![Diagrammes de classes de la semaine 4](images/Diagramme_Semaine4.png)
 
+### Nuage de mots du projet spaceinvaders
+(généré à l’aide de Source Code Word Cloud Generator avec la liste JavaBlacklist.txt fournie en annexe)
+ 
+![Nuage de mots de la semaine 4](images/NuageDeMots_Semaine4.png)
+
+
 
 -------------
 
