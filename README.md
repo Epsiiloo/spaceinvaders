@@ -4,12 +4,12 @@
 
 *Si vous le souhaitez, vous pouvez faire un petit sommaire pour atteindre plus facilement une semaine donnée.*  
 *Il est à noter que le le glossaire devra être compléter au fil des séances* 
-- [Semaine n°3 : du 24 au 28 mai](#semaine2)  
-- [Semaine n°2 : du 17 au 21 mai](#semaine2)  
-- [Semaine n°1 : du 10 au 15 mai](#semaine1)  
+- [Semaine n°4 : du 24 au 28 mai](#semaine4)  
+- [Semaine n°3 : du 17 au 21 mai](#semaine3)  
+- [Semaine n°2 : du 10 au 15 mai](#semaine2)  
 - [Glossaire](#glossaire)
 
-## Semaine n°3 : du 24 au 28 mai <a id="semaine3"></a>
+## Semaine n°4 : du 24 au 28 mai <a id="semaine4"></a>
 
 ### Sprints et fonctionnalités réalisées 
 
@@ -21,7 +21,7 @@ Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
 
 -------------
 
-## Semaine n°2 : du 17 au 21 mai <a id="semaine2"></a>
+## Semaine n°3 : du 17 au 21 mai <a id="semaine3"></a>
 
 ### Sprints et fonctionnalités réalisées 
 
@@ -39,10 +39,14 @@ Création de la classe DebordementEspaceJeuException
 
 Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 
+### Diagramme de classes 
+
+![Diagrammes de classes de la semaine 3](images/Diagramme_Semaine3.PNG)
+
 
 -------------
 
-## Semaine n°1 : du 10 au 15 mai <a id="semaine1"></a>
+## Semaine n°2 : du 10 au 15 mai <a id="semaine2"></a>
 
 
 ### Sprints et fonctionnalités réalisées 
