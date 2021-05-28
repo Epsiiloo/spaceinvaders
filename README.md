@@ -3,16 +3,17 @@
 *Si vous le souhaitez, vous pouvez introduire le projet space Invaders en quelques mots*
 
 *Si vous le souhaitez, vous pouvez faire un petit sommaire pour atteindre plus facilement une semaine donnée.*  
-*Il est à noter que le le glossaire devra être compléter au fil des séances*  
-- [Semaine n°2 : du 17 au 21 avril](#semaine2)  
-- [Semaine n°1 : du 10 au 15 avril](#semaine1)  
+*Il est à noter que le le glossaire devra être compléter au fil des séances* 
+- [Semaine n°3 : du 24 au 28 mai](#semaine2)  
+- [Semaine n°2 : du 17 au 21 mai](#semaine2)  
+- [Semaine n°1 : du 10 au 15 mai](#semaine1)  
 - [Glossaire](#glossaire)
 
-## Semaine n°3 : du 24 au 28 mai <a id="semaine2"></a>
+## Semaine n°3 : du 24 au 28 mai <a id="semaine3"></a>
 
 ### Sprints et fonctionnalités réalisées 
 
-#### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
+#### Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (fini)
 
 - Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
 Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
@@ -24,7 +25,7 @@ Mise en place de la méthode VaisseauAvance_DeplacerVaisseauVersLaGauche.
 
 ### Sprints et fonctionnalités réalisées 
 
-#### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
+#### Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (fini)
 
 - Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée 
 
