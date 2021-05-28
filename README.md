@@ -7,6 +7,7 @@
 - [Semaine n°4 : du 24 au 28 mai](#semaine4)  
 - [Semaine n°3 : du 17 au 21 mai](#semaine3)  
 - [Semaine n°2 : du 10 au 15 mai](#semaine2)  
+- [Semaine n°1 : du 26 au 30 avril](#semaine1)  
 - [Glossaire](#glossaire)
 
 ## Semaine n°4 : du 24 au 28 mai <a id="semaine4"></a>
@@ -52,19 +53,7 @@ Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 ### Sprints et fonctionnalités réalisées 
 
 #### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
-
-- Story n°1 : Créer un espace de jeu  
-Un espace de jeu est créé aux dimensions données (2D) 
-Cet espace de jeu est vide
-
--  Story n°2 : Positionner un nouveau vaisseau dans l’espace de jeu  
-Un nouveau vaisseau est créé
-Le vaisseau est positionné aux coordonnées transmises
-Si un nouveau vaisseau essaye d’être positionné en dehors des limites de l’espace jeu, alors une exception devra être levée.
- Contraintes :
-La position souhaitée est transmise par ses coordonnées x et y.
-Le coin supérieur gauche de l’espace jeu (point en haut à gauche) a pour coordonnées (0,0)
-La taille du vaisseau est réduite pour l'instant à son minimum (1 seul point)    
+ 
 
 - Story n°3 : Déplacer le vaisseau vers la droite dans l'espace de jeu  
 Le vaisseau se déplace d'un pas vers la droite 
@@ -96,6 +85,30 @@ Aucune
  Pour pouvoir, mettre en place les tests, il a été nécessaire d’ajouter une fonctionnalité supplémentaire qui permet de représenter l’espace de jeu dans une chaîne ASCII.
 
 -------------
+
+## Semaine n°1 : du 26 au 30 avril <a id="semaine1"></a>
+
+
+### Sprints et fonctionnalités réalisées 
+
+#### Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)
+
+- Story n°1 : Créer un espace de jeu  
+Un espace de jeu est créé aux dimensions données (2D) 
+Cet espace de jeu est vide
+
+-  Story n°2 : Positionner un nouveau vaisseau dans l’espace de jeu  
+Un nouveau vaisseau est créé
+Le vaisseau est positionné aux coordonnées transmises
+Si un nouveau vaisseau essaye d’être positionné en dehors des limites de l’espace jeu, alors une exception devra être levée.
+ Contraintes :
+La position souhaitée est transmise par ses coordonnées x et y.
+Le coin supérieur gauche de l’espace jeu (point en haut à gauche) a pour coordonnées (0,0)
+La taille du vaisseau est réduite pour l'instant à son minimum (1 seul point)  
+
+
+### Fonctionnalité en cours d’implémentation : 
+Aucune
 
 
 ## Glossaire <a id="glossaire"></a>
