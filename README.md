@@ -40,6 +40,11 @@ Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 
 ![Diagrammes de classes de la semaine 3](images/Diagramme_Semaine2.png)
 
+### Nuage de mots du projet spaceinvaders
+(généré à l’aide de Source Code Word Cloud Generator avec la liste JavaBlacklist.txt fournie en annexe)
+ 
+![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine3.PNG)
+
 
 -------------
 
@@ -68,7 +73,7 @@ Aucune
 
 ![Diagrammes de classes de la semaine 1](images/Diagramme_Semaine1.PNG)
 
-### Nuage de mots du projet spaceinvaders (séance n°1)  
+### Nuage de mots du projet spaceinvaders
 (généré à l’aide de Source Code Word Cloud Generator avec la liste JavaBlacklist.txt fournie en annexe)
  
 ![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine1.PNG)
