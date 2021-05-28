@@ -43,7 +43,7 @@ Mise en place des tests test_VaisseauImmobile_DeplacerVaisseauVersLaDroite
 ### Nuage de mots du projet spaceinvaders
 (généré à l’aide de Source Code Word Cloud Generator avec la liste JavaBlacklist.txt fournie en annexe)
  
-![Nuage de mots de la semaine 1](images/NuageDeMots_Semaine3.PNG)
+![Nuage de mots de la semaine 3](images/NuageDeMots_Semaine3.png)
 
 
 -------------
